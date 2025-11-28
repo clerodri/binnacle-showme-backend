@@ -32,7 +32,7 @@ Binnacle is a backend platform designed for **security companies** and **residen
 Binnacle applies **Hexagonal Architecture (Ports and Adapters)** and **DDD** using **Spring Modulith**:
 
 <p align="center">
-  <img src="architecture/clean.png" alt="Binnacle Clean Architecture Diagram" width="700"/>
+  <img src="architecture/clean.jpg" alt="Binnacle Clean Architecture Diagram" width="700"/>
 </p>
 
 
