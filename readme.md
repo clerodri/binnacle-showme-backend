@@ -31,6 +31,11 @@ Binnacle is a backend platform designed for **security companies** and **residen
 
 Binnacle applies **Hexagonal Architecture (Ports and Adapters)** and **DDD** using **Spring Modulith**:
 
+<p align="center">
+  <img src="architecture/clean.png" alt="Binnacle Clean Architecture Diagram" width="700"/>
+</p>
+
+
 ```
 binnacle-backend/
 ├── src/main/java/com/clerodri/binnacle/
@@ -69,6 +74,7 @@ binnacle-backend/
    - Factory patterns for complex object creation
    - Strategy pattern for statistics calculation
 	 
+
 	 
 ## 🧰 Technology Stack
 
